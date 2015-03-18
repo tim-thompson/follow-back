@@ -18,4 +18,4 @@ python FollowBack.py
 ```
 
 ## Automation
-If you wish to automate this bot the method I used was to setup a cron job on a VPS that ran the script every 4 hours
+If you wish to automate this bot the method I used was to setup a cron job on a VPS that ran the script every 4 hours.  The interval is obviously customised through the cron job or whatever method you decide to use depending on your system and specific circumstances.
